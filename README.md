@@ -1,6 +1,6 @@
-Power BI Sample Chocolate sales Dashboard 
+Power BI Sample Chocolate-sales Analytics Project
 
-Analytics Project🍫 Dashboard Summary 
+🍫 Dashboard Summary 
 Analyzes chocolate sales performance across multiple products and regions
 Displays key KPIs such as total sales amount, total quantity sold, number of products, and regional coverage
 Highlights best-selling chocolate products and high-performing regions
